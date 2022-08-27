@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Kaushaljoshi29/scrimba-travel-jornal)
-- Live Site URL: ()
+- Live Site URL: (https://kaushaljoshi29.github.io/scrimba-travel-jornal/)
 
 ## My process
 
