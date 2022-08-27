@@ -1,0 +1,13 @@
+.horizontal-line {
+    width:0;
+    height: 0px;
+    border: 1px solid #f5f5f5;
+  }
+
+@media screen and (min-width: 768px) {
+  .horizontal-line {
+    width: 750px;
+    height: 0px;
+    border: 1px solid #f5f5f5;
+  }
+}

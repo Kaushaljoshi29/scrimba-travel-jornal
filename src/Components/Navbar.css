@@ -1,0 +1,25 @@
+.Nav__container {
+  background: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: 50px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .Nav__container {
+    height: 100px;
+    margin-bottom: 50px;
+    gap:20px
+  }
+  .Nav_image {
+    width: 35px;
+    height: auto;
+  }
+  .Nav_heading {
+    font-size: 25px;
+  }
+}
