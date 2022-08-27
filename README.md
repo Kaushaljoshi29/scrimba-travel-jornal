@@ -23,7 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop
+
 ![](./desktopSS.PNG)
+
+#### Mobile
+
 ![](./mobileSS.PNG)
 
 
